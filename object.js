@@ -1,2 +1,2 @@
 let displayArea = document.getElementById('display-area');
-displayAra.innerTest = 'JS大好き！';
+displayAra.innerText = 'JS大好き！';
